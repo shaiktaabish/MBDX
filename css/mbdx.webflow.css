@@ -1290,6 +1290,7 @@
   font-size: 30px;
   line-height: 46px;
   font-weight: 700;
+  text-transform: capitalize;
 }
 
 .paragraph-7._30px.medium {
@@ -1297,6 +1298,7 @@
   font-size: 22px;
   line-height: 32px;
   font-weight: 600;
+  text-transform: capitalize;
 }
 
 .paragraph-7._30px.medium._20 {
